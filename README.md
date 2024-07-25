@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 Actualmente trabajo en GlobalLogic como desarrollador on<br>👯 Estoy colaborando en ProyectoHOSO, proyecto que yo mismo dirijo<br>🌱 Soy docente de desarrollo web en UNPAZ<br>🌱 Soy docente de desarrollo de dispositivos moviles en UNPAZ<br>💬 Pregutame de desarrollo de proyectos<br>⚡ Llevo desarrollando más de 15 años
+🔭 Actualmente trabajo en GlobalLogic como Sr. Software Engineer, en variadas actividades tanto desarrollando como liderando proyectos.<br>👯 Estoy colaborando en ProyectoHOSO, proyecto que yo mismo dirijo.<br>🌱 Soy docente de desarrollo web en UNPAZ<br>🌱 Soy docente de desarrollo de dispositivos moviles en UNPAZ<br>💬 Pregutame de desarrollo de proyectos<br>⚡ Llevo desarrollando más de 15 años
 
 
 ## 🌐 Redes sociales:

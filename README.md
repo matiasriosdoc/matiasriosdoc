@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 Actualmente trabajo en GlobalLogic como Sr. Software Engineer, en variadas actividades tanto desarrollando como liderando proyectos.<br>👯 Estoy colaborando en ProyectoHOSO, proyecto que yo mismo dirijo.<br>🌱 Soy docente de desarrollo web en UNPAZ<br>🌱 Soy docente de desarrollo de dispositivos moviles en UNPAZ<br>💬 Pregutame de desarrollo de proyectos<br>⚡ Llevo desarrollando más de 15 años
+🔭 Actualmente trabajo en GlobalLogic como desarrollador on<br>👯 Estoy colaborando en ProyectoHOSO, proyecto que yo mismo dirijo<br>🌱 Soy docente de desarrollo web en UNPAZ<br>🌱 Soy docente de desarrollo de dispositivos moviles en UNPAZ<br>💬 Pregutame de desarrollo de proyectos<br>⚡ Llevo desarrollando más de 15 años
 
 
 ## 🌐 Redes sociales:
@@ -12,11 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matiasriosdoc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasriosdoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=matiasriosdoc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=matiasriosdoc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=matiasriosdoc&icon=0&color=0)](https://visitcount.itsvg.in)
